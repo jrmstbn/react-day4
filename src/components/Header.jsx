@@ -6,7 +6,6 @@ import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
 import SwitchMode from "./SwitchMode";
 
-// git samle comment
 export default function TopAppBar() {
     return (
         <AppBar position="static" sx={{ mb: 3 }}>
